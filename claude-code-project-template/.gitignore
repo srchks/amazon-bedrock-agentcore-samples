@@ -1,0 +1,29 @@
+# Claude Code — personal, not shared
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
